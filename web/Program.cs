@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using web.Data;
 using web.Models;
-
+// koncna verzija
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
