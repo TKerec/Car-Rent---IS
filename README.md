@@ -6,6 +6,9 @@ Osnovna stran aplikacije omogoča vpogled v lastnosti posameznega avtomobila.
 Ko se uporabnik prijavi v aplikacijo, se mu omogoči izbor in rezervacija poljubnega avtomobila (možnost izbire kraja, naslova, načina plačila, začetnega in končnega datuma), 
 omogočanje kasnejšega urejanja in dopolnitve rezervacije.
 
+Povezava do kratkega videoposnetka o delovanju aplikacije:
+https://youtu.be/KRMbK9ca78U
+
 Slike uporabniškega vmesnika aplikacije:
 
 ![page1](https://github.com/TKerec/Car-Rent---IS/assets/122238895/03b727d1-9db3-4274-80ab-852924205fc5)
