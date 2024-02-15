@@ -1,10 +1,5 @@
 Naslov projekta: Car rental service
 
-Imena avtorjev: Tomaž Kerec (63210533), Žiga Trop (63210347)
-
-Opis nalog
-	Tomaž: Snovanje osnovne ideje, Načrtovanje podatkovne baze, končno poročilo
-	Žiga:  Snovanje ideje za napredne funkcionalnosti aplikacije, del implementacije v .Net, ideja in implementacija oblikovanja
 
 Kratek opis delovanja:
 Osnovna stran aplikacije omogoča vpogled v lastnosti posameznega avtomobila. 
